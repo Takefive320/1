@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap:https://sixtonesandme.netlify.app/sitemap.xml
